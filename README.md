@@ -5,6 +5,7 @@ It can also run a Tinfoil server to grab all your games to your console.
 
 # Main Features TODO
 
+- [X] Init project
 - [ ] Think about the domain
 - [ ] Authentication
 - [ ] Retrieve every .nsp games from a folder
