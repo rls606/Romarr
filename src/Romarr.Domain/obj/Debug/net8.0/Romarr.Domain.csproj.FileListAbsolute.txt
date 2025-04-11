@@ -1,0 +1,6 @@
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Domain\obj\Debug\net8.0\Romarr.Domain.csproj.AssemblyReference.cache
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Domain\obj\Debug\net8.0\Romarr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Domain\obj\Debug\net8.0\Romarr.Domain.AssemblyInfoInputs.cache
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Domain\obj\Debug\net8.0\Romarr.Domain.AssemblyInfo.cs
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Domain\obj\Debug\net8.0\Romarr.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Domain\obj\Debug\net8.0\Romarr.Domain.sourcelink.json

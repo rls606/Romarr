@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jiPLU11RYTo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Romarr\\src\\Romarr.Contracts\\Romarr.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.556\\stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512"
+  ],
+  "logs": []
+}

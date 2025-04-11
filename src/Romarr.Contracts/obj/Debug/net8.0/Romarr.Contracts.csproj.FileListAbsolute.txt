@@ -1,0 +1,12 @@
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\bin\Debug\net8.0\Romarr.Contracts.deps.json
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\bin\Debug\net8.0\Romarr.Contracts.dll
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\bin\Debug\net8.0\Romarr.Contracts.pdb
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\Romarr.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\Romarr.Contracts.AssemblyInfoInputs.cache
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\Romarr.Contracts.AssemblyInfo.cs
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\Romarr.Contracts.csproj.CoreCompileInputs.cache
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\Romarr.Contracts.sourcelink.json
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\Romarr.Contracts.dll
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\refint\Romarr.Contracts.dll
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\Romarr.Contracts.pdb
+c:\Users\Alex\source\repos\Romarr\src\Romarr.Contracts\obj\Debug\net8.0\ref\Romarr.Contracts.dll
