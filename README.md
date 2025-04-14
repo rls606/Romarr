@@ -6,10 +6,35 @@ It can also run a Tinfoil server to grab all your games to your console.
 # Main Features TODO
 
 - [ ] Authentication
-- [ ] Retrieve every .nsp games from a folder
-  - [ ] Retrieve associated datas (name, cover, ...)
+- [ ] Retrieve disk informations
+  - [ ] Retrieve every .nsp games from a folder
+    - [ ] Retrieve associated datas (name, cover, ...)
 - [ ] Add Prowlarr compatibility
 - [ ] Create a Tinfoil server
 - [ ] Create docker image
-  - [ ] Creating dockerhub page
-- [ ] Creating GitHub Actions pipelines
+  - [ ] Create DockerHub page
+- [ ] Create GitHub Actions pipelines
+
+# Domain entities
+
+## Game
+
+- ID (Guid)
+- Platform
+- Name
+- Region
+- Game Key
+- Path
+- Download Date
+
+Retrieved on external API ?
+- Cover URL
+- Release Date
+
+## User
+*User will only there for authentication*
+
+- Mail
+- Password
+
+

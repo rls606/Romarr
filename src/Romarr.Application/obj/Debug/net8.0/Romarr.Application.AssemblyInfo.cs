@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Romarr.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+630ded154a7b9fd8d3b146997356ad62c842badc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34ea328b79cb70690e3b0a99dd287fe8f95383e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Romarr.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Romarr.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
