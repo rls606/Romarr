@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Romarr.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34ea328b79cb70690e3b0a99dd287fe8f95383e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f95e2984277f250c085d27b3893ca7d33e472e26")]
 [assembly: System.Reflection.AssemblyProductAttribute("Romarr.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Romarr.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

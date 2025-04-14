@@ -1,20 +1,14 @@
-using Romarr.Domain.Common;
-using Romarr.Domain.Reminders;
-using Romarr.Domain.Users;
-using Romarr.Infrastructure.Common.Middleware;
-
 using MediatR;
-
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
+using Romarr.Domain.Common;
+using Romarr.Infrastructure.Common.Middleware;
 
 namespace Romarr.Infrastructure.Common;
 
 public class AppDbContext(DbContextOptions options, IHttpContextAccessor _httpContextAccessor, IPublisher _publisher) : DbContext(options)
 {
-    public DbSet<Reminder> Reminders { get; set; } = null!;
-
-    public DbSet<User> Users { get; set; } = null!;
+    public DbSet<Game> Games { get; set; } = null!;
 
     public async override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
