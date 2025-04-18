@@ -12,7 +12,8 @@ It can also run a Tinfoil server to grab all your games to your console.
   - [ ] Retrieve every .nsp games from a folder
     - [ ] Retrieve associated datas (name, cover, ...)
 - [ ] Add Prowlarr compatibility
-- [ ] Create a Tinfoil server
+- [ ] Add Plugin system to add anything
+  - [ ] Create a plugin to add a Tinfoil server
 - [ ] Create docker image
   - [ ] Create DockerHub page
 - [ ] Create GitHub Actions pipelines
