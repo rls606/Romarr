@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Alex\\source\\repos\\Romarr\\src\\Romarr.Contracts\\Romarr.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Romarr\\src\\Romarr.Contracts\\Romarr.Contracts.csproj",
       "projectName": "Romarr.Contracts",
-      "projectPath": "c:\\Users\\Alex\\source\\repos\\Romarr\\src\\Romarr.Contracts\\Romarr.Contracts.csproj",
+      "projectPath": "C:\\Users\\Alex\\source\\repos\\Romarr\\src\\Romarr.Contracts\\Romarr.Contracts.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Alex\\source\\repos\\Romarr\\src\\Romarr.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\source\\repos\\Romarr\\src\\Romarr.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "fallbackFolders": [
@@ -120,15 +120,15 @@
           }
         },
         "centralPackageVersions": {
-          "Ardalis.SmartEnum": "7.0.0",
+          "Ardalis.SmartEnum": "8.2.0",
           "coverlet.collector": "6.0.0",
-          "ErrorOr": "1.6.0",
+          "ErrorOr": "2.0.1",
           "FluentAssertions": "6.12.0",
           "FluentEmail.Core": "3.0.2",
           "FluentEmail.Smtp": "3.0.2",
           "FluentValidation": "11.9.0",
           "FluentValidation.AspNetCore": "11.3.0",
-          "MediatR": "12.2.0",
+          "MediatR": "12.5.0",
           "Microsoft.AspNetCore.Authentication": "2.2.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",

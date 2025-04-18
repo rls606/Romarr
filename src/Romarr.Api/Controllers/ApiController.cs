@@ -1,13 +1,10 @@
 using ErrorOr;
-
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace Romarr.Api.Controllers;
 
 [ApiController]
-[Authorize]
 public class ApiController : ControllerBase
 {
     protected ActionResult Problem(List<Error> errors)

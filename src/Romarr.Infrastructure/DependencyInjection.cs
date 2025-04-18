@@ -4,11 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Romarr.Application.Common.Interfaces;
 using Romarr.Infrastructure.Common;
-using Romarr.Infrastructure.Security;
-using Romarr.Infrastructure.Security.CurrentUserProvider;
-using Romarr.Infrastructure.Security.PolicyEnforcer;
-using Romarr.Infrastructure.Security.TokenGenerator;
-using Romarr.Infrastructure.Security.TokenValidation;
+using Romarr.Infrastructure.Services;
 
 namespace Romarr.Infrastructure;
 
@@ -20,7 +16,6 @@ public static class DependencyInjection
             .AddHttpContextAccessor()
             .AddServices()
             .AddBackgroundServices(configuration)
-            .AddAuthentication(configuration)
             .AddAuthorization()
             .AddPersistence();
 
@@ -32,9 +27,9 @@ public static class DependencyInjection
         return services;
     }
 
-
     private static IServiceCollection AddServices(this IServiceCollection services)
     {
+        services.AddSingleton<IFileSystemService, FileSystemService>();
         return services;
     }
 
@@ -47,22 +42,6 @@ public static class DependencyInjection
 
     private static IServiceCollection AddAuthorization(this IServiceCollection services)
     {
-        services.AddScoped<IAuthorizationService, AuthorizationService>();
-        services.AddScoped<ICurrentUserProvider, CurrentUserProvider>();
-        services.AddSingleton<IPolicyEnforcer, PolicyEnforcer>();
-
-        return services;
-    }
-
-    private static IServiceCollection AddAuthentication(this IServiceCollection services, IConfiguration configuration)
-    {
-        services.Configure<JwtSettings>(configuration.GetSection(JwtSettings.Section));
-
-        services
-            .ConfigureOptions<JwtBearerTokenValidationConfiguration>()
-            .AddAuthentication(defaultScheme: JwtBearerDefaults.AuthenticationScheme)
-            .AddJwtBearer();
-
         return services;
     }
 }

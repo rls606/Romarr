@@ -8,8 +8,6 @@ namespace Romarr.Infrastructure.Common;
 
 public class AppDbContext(DbContextOptions options, IHttpContextAccessor _httpContextAccessor, IPublisher _publisher) : DbContext(options)
 {
-    public DbSet<Game> Games { get; set; } = null!;
-
     public async override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
         var domainEvents = ChangeTracker.Entries<Entity>()

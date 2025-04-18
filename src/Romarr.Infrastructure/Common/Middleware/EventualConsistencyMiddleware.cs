@@ -1,8 +1,6 @@
-using Romarr.Domain.Common;
-
 using MediatR;
-
 using Microsoft.AspNetCore.Http;
+using Romarr.Domain.Common;
 
 namespace Romarr.Infrastructure.Common.Middleware;
 

@@ -1,5 +1,6 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Romarr.Application.FileSystem.Queries.GetFolder;
 
 namespace Romarr.Api.Controllers;
 
@@ -7,8 +8,11 @@ namespace Romarr.Api.Controllers;
 public class FileSystemController(ISender _mediator) : ApiController
 {
     [HttpGet]
-    public async Task<IActionResult> getFolders(string path)
+    public async Task<IActionResult> GetFolders(string path = "")
     {
-        throw new NotImplementedException();
+        var result = await _mediator.Send(new GetFolderQuery(path));
+        return result.Match(
+            folder => Ok(folder),
+            Problem);
     }
 }

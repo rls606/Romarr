@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Romarr.Api.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f34ea328b79cb70690e3b0a99dd287fe8f95383e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a8b7407af265c63a3e9bfa83fb505ea0e1b0ccf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Romarr.Api.IntegrationTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Romarr.Api.IntegrationTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

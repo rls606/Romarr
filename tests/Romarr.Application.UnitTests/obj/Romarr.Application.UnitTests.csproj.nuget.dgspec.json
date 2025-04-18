@@ -75,15 +75,15 @@
             }
           },
           "centralPackageVersions": {
-            "Ardalis.SmartEnum": "7.0.0",
+            "Ardalis.SmartEnum": "8.2.0",
             "coverlet.collector": "6.0.0",
-            "ErrorOr": "1.6.0",
+            "ErrorOr": "2.0.1",
             "FluentAssertions": "6.12.0",
             "FluentEmail.Core": "3.0.2",
             "FluentEmail.Smtp": "3.0.2",
             "FluentValidation": "11.9.0",
             "FluentValidation.AspNetCore": "11.3.0",
-            "MediatR": "12.2.0",
+            "MediatR": "12.5.0",
             "Microsoft.AspNetCore.Authentication": "2.2.0",
             "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",
@@ -177,17 +177,17 @@
           "dependencies": {
             "Ardalis.SmartEnum": {
               "target": "Package",
-              "version": "[7.0.0, )",
+              "version": "[8.2.0, )",
               "versionCentrallyManaged": true
             },
             "ErrorOr": {
               "target": "Package",
-              "version": "[1.6.0, )",
+              "version": "[2.0.1, )",
               "versionCentrallyManaged": true
             },
             "MediatR": {
               "target": "Package",
-              "version": "[12.2.0, )",
+              "version": "[12.5.0, )",
               "versionCentrallyManaged": true
             },
             "StyleCop.Analyzers": {
@@ -204,15 +204,15 @@
             }
           },
           "centralPackageVersions": {
-            "Ardalis.SmartEnum": "7.0.0",
+            "Ardalis.SmartEnum": "8.2.0",
             "coverlet.collector": "6.0.0",
-            "ErrorOr": "1.6.0",
+            "ErrorOr": "2.0.1",
             "FluentAssertions": "6.12.0",
             "FluentEmail.Core": "3.0.2",
             "FluentEmail.Smtp": "3.0.2",
             "FluentValidation": "11.9.0",
             "FluentValidation.AspNetCore": "11.3.0",
-            "MediatR": "12.2.0",
+            "MediatR": "12.5.0",
             "Microsoft.AspNetCore.Authentication": "2.2.0",
             "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",
@@ -387,15 +387,15 @@
             }
           },
           "centralPackageVersions": {
-            "Ardalis.SmartEnum": "7.0.0",
+            "Ardalis.SmartEnum": "8.2.0",
             "coverlet.collector": "6.0.0",
-            "ErrorOr": "1.6.0",
+            "ErrorOr": "2.0.1",
             "FluentAssertions": "6.12.0",
             "FluentEmail.Core": "3.0.2",
             "FluentEmail.Smtp": "3.0.2",
             "FluentValidation": "11.9.0",
             "FluentValidation.AspNetCore": "11.3.0",
-            "MediatR": "12.2.0",
+            "MediatR": "12.5.0",
             "Microsoft.AspNetCore.Authentication": "2.2.0",
             "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",
@@ -542,15 +542,15 @@
             }
           },
           "centralPackageVersions": {
-            "Ardalis.SmartEnum": "7.0.0",
+            "Ardalis.SmartEnum": "8.2.0",
             "coverlet.collector": "6.0.0",
-            "ErrorOr": "1.6.0",
+            "ErrorOr": "2.0.1",
             "FluentAssertions": "6.12.0",
             "FluentEmail.Core": "3.0.2",
             "FluentEmail.Smtp": "3.0.2",
             "FluentValidation": "11.9.0",
             "FluentValidation.AspNetCore": "11.3.0",
-            "MediatR": "12.2.0",
+            "MediatR": "12.5.0",
             "Microsoft.AspNetCore.Authentication": "2.2.0",
             "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",
@@ -676,15 +676,15 @@
             }
           },
           "centralPackageVersions": {
-            "Ardalis.SmartEnum": "7.0.0",
+            "Ardalis.SmartEnum": "8.2.0",
             "coverlet.collector": "6.0.0",
-            "ErrorOr": "1.6.0",
+            "ErrorOr": "2.0.1",
             "FluentAssertions": "6.12.0",
             "FluentEmail.Core": "3.0.2",
             "FluentEmail.Smtp": "3.0.2",
             "FluentValidation": "11.9.0",
             "FluentValidation.AspNetCore": "11.3.0",
-            "MediatR": "12.2.0",
+            "MediatR": "12.5.0",
             "Microsoft.AspNetCore.Authentication": "2.2.0",
             "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",

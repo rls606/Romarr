@@ -1,8 +1,6 @@
-using Romarr.Application.Common.Behaviors;
-
 using FluentValidation;
-
 using Microsoft.Extensions.DependencyInjection;
+using Romarr.Application.Common.Behaviors;
 
 namespace Romarr.Application;
 
